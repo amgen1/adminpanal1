@@ -37,8 +37,13 @@ if ($text === '/start') {
     🏆 **Climb the Leaderboard**: Compete with other pups and rise to the top to show you’re the best in the pack!
     👥 **Invite Your Pack & Earn More!**  
     Got friends, family, or fellow dog lovers? Invite them to join the fun and grow your earnings as the pack gets bigger! The more paws, the better!
-
     
+🔗 **Connect with Us:**
+    - Developed by [@itking007](https://t.me/itking007)
+    - Join our [Dog Lovers Telegram Pack](https://t.me/companybrodigital) for the latest updates and tail-wagging fun!
+
+    🐾 **Get Started Now** and take your dog on the ultimate GamaDog adventure!
+
     👉 [Join Our XBB Community](https://t.me/xbb_community)
     ";
 
