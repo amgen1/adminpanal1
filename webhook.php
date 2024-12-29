@@ -27,24 +27,19 @@ if ($text === '/start') {
     }
 
     $caption = "
-    👋 **Welcome to the GamaDog Adventure!** 🐾🎮
+    👋 **Welcome to the XBB Adventure!** 🐾🎮
 
     Get ready for a tail-wagging journey where every paw-tap leads to bigger rewards! Here’s what’s waiting for you:
 
-    ✨ **Play GamaDog**: Tap the dog bone and watch your balance fetch amazing rewards!
-    🐕 **Mine for PUPS**: Collect GamaDog Tokens with every action your furry friend takes.
-    📋 **Complete Doggy Tasks**: Help your pup finish fun missions and earn even more treats!
+    ✨ **Play XBB**: Tap the dog bone and watch your balance fetch amazing rewards!
+    🐕 **Mine for PUPS**: Collect XBB Tokens with every action your furry friend takes.
+    📋 **Complete XBB Tasks**: Help your pup finish fun missions and earn even more treats!
     🏆 **Climb the Leaderboard**: Compete with other pups and rise to the top to show you’re the best in the pack!
     👥 **Invite Your Pack & Earn More!**  
     Got friends, family, or fellow dog lovers? Invite them to join the fun and grow your earnings as the pack gets bigger! The more paws, the better!
 
-    🔗 **Connect with Us:**
-    - Developed by [@itking007](https://t.me/itking007)
-    - Join our [Dog Lovers Telegram Pack](https://t.me/companybrodigital) for the latest updates and tail-wagging fun!
-
-    🐾 **Get Started Now** and take your dog on the ultimate GamaDog adventure!
-
-    👉 [Join Our Doggo Community](https://t.me/companybrodigital)
+    
+    👉 [Join Our XBB Community](https://t.me/xbb_community)
     ";
 
     // Send photo to Telegram
