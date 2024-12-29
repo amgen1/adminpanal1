@@ -62,7 +62,7 @@ if ($text === '/start') {
         'reply_markup' => json_encode([
             'inline_keyboard' => [
                 [
-                    ['text' => 'Play GamaDog Now', 'web_app' => ['url' => 'https://fabulous-starlight-d64db6.netlify.app/']],
+                    ['text' => 'Play XBB Now', 'web_app' => ['url' => 'https://xbb1.netlify.app/']],
                     ['text' => 'Join Our Community', 'url' => 'https://t.me/xbbcoin_bot']]
             ]
         ])
